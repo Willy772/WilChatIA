@@ -1,19 +1,27 @@
-# :earth_americas: GDP dashboard template
+# TalkMate
 
-A simple Streamlit app showing the GDP of different countries in the world.
+Interface allowing you to have a conversation with a LLM assistant and on your personnal data.
+Also, the app is very customizable, you can give specific instructions to your LLM and change rag system parameters.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
 
-### How to run it on your own machine
+## Installation
 
-1. Install the requirements
+=> Click on **TalkMate-Installer.exe** to download the app (be careful to install the necessary applications in Tech Stack).
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+=> Afterwards you click on **setup.exe** to build environment for the app.
 
-2. Run the app
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Tech Stack
+
+**[Application you have to install on your computer]**
+
+- **Python 3.11.7** (https://www.python.org/downloads/release/python-3117/)
+
+- **Ollama** (https://ollama.com/download)
+
+- **CUDA 11.8** (https://developer.nvidia.com/cuda-11-8-0-download-archive)
+
+
+## Author
+
+- [@nixiz0](https://github.com/nixiz0)
